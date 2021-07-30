@@ -7,3 +7,5 @@
 * Santander Bootcamp | Fullstack Developer - **Java**
 
 * Inter Android Developer - **Kotlin**
+
+* Everis New Talents Java - **Java**
